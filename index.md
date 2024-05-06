@@ -3,9 +3,9 @@
 ## Announcements
 
 - [Cohot 2]
-- [ ] Seven modules
+- [Seven modules ] 
 
 ## Modules
 
-- [ ] Github space
-- [ ] contant creation
+- [Seven modules ]
+- [Seven modules ]
